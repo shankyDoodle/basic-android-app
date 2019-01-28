@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">basic-android-app</string>
+    <string name="app_name">Welcome To Course Journey</string>
+    <string name="button_label_start">Start Journey</string>
+    <string name="button_label_stop">Stop Journey</string>
 </resources>
